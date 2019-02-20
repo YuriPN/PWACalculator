@@ -1,0 +1,14 @@
+{
+  "main.css": "/PWACalculator/static/css/main.5ba206f1.chunk.css",
+  "main.js": "/PWACalculator/static/js/main.76a53c93.chunk.js",
+  "main.js.map": "/PWACalculator/static/js/main.76a53c93.chunk.js.map",
+  "runtime~main.js": "/PWACalculator/static/js/runtime~main.00fe597f.js",
+  "runtime~main.js.map": "/PWACalculator/static/js/runtime~main.00fe597f.js.map",
+  "static/js/2.3c63d87c.chunk.js": "/PWACalculator/static/js/2.3c63d87c.chunk.js",
+  "static/js/2.3c63d87c.chunk.js.map": "/PWACalculator/static/js/2.3c63d87c.chunk.js.map",
+  "index.html": "/PWACalculator/index.html",
+  "precache-manifest.7ad93eee7ee36e2c4ae50fcc1251b7e6.js": "/PWACalculator/precache-manifest.7ad93eee7ee36e2c4ae50fcc1251b7e6.js",
+  "service-worker.js": "/PWACalculator/service-worker.js",
+  "static/css/main.5ba206f1.chunk.css.map": "/PWACalculator/static/css/main.5ba206f1.chunk.css.map",
+  "static/media/index.css": "/PWACalculator/static/media/RobotoMono-Thin.b93c2ad4.ttf"
+}
